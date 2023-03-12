@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe App - Dang Tran (217752486)</string>
+
+    <string-array name="playerXO">
+        <item>Player X</item>
+        <item>Player O</item>
+    </string-array>
+</resources>
